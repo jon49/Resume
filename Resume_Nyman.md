@@ -32,7 +32,7 @@ Competitive Analysis        Worst Case Analysis
 ## Professional Experience
 
 | **Spreadsheet Budget & Consulting[^budget], Chino Valley, AZ**
-| *Software Developer/Sole Proprietor 2009 - 2013*
+| *Software Developer/Sole Proprietor 2009 - 2014*
 
 [^budget]: [Spreadsheet Budget & Consulting](www.SpreadsheetBudget.com) creates applications or add-ons to be used with Microsoft Excel. Also, consulting work is done for specific applications for other companies.
 
