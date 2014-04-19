@@ -4,7 +4,7 @@ See [my static built website](http://spreadsheetbudget.com.s3-website-us-east-1.
 
 ### Resume
 
-[Or download the PDF version]().
+[Or download the PDF version](https://github.com/jon49/Resume/blob/master/Resume_Nyman.pdf).
 
 <table>
 <tbody>
