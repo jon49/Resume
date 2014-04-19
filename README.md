@@ -90,7 +90,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </tbody>
 </table>
 <h2 id="professional-experience">Professional Experience</h2>
-<p><strong>Spreadsheet Budget &amp; Consulting<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>, Chino Valley, AZ</strong><br /><em>Software Developer/Sole Proprietor 2009 - 2013</em></p>
+<p><strong>Spreadsheet Budget &amp; Consulting<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>, Chino Valley, AZ</strong><br /><em>Software Developer/Sole Proprietor 2009 - 2014</em></p>
 <ul>
 <li>Created an automated heat map system with core manipulation in Excel. Creates maps in Excel or HTML.</li>
 <li>Created free add-ins <em>Excel Time Card</em>, <em>KMyMoney to Excel</em>, <em>Scribble Filter</em>.</li>
