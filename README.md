@@ -24,7 +24,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </tbody>
 </table>
 <h2 id="summary">Summary</h2>
-<p>Self-taught programmer/consultant with 3<span class="math">$\frac{1}{2}$</span> years of experience. Previous experience as an electrical engineer with 5 years experience in project management, test engineering, analog design, and worst case analysis, with a masters degree in digital signal processing. An initiator, self-motivated, quick learner, and works well with others.</p>
+<p>Self-taught programmer/consultant with 3 1/2 years of experience. Previous experience as an electrical engineer with 5 years experience in project management, test engineering, analog design, and worst case analysis, with a masters degree in digital signal processing. An initiator, self-motivated, quick learner, and works well with others.</p>
 <p><strong>Programming Skills</strong></p>
 <table>
 <thead>
