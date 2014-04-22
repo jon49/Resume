@@ -2,7 +2,11 @@
 
 See [my static built website](http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/) built with [Docpad](http://docpad.org/). See my [static app timecard](https://github.com/jon49/Tiem) built with [pure css](http://purecss.io/) among other technologies.
 
-### Resume
+### .NET Projects
+
+A [personal finance to Excel converter add-in](https://github.com/jon49/FxToExcel). I have also [created a wrapper](http://www.spreadsheetbudget.com/products/scribble-filter/) for the [Excel advanced filter function](http://office.microsoft.com/en-us/excel-help/filter-by-using-advanced-criteria-HP005200178.aspx). I have also created a [timecard based in Excel](http://www.spreadsheetbudget.com/products/excel-time-card/).
+
+## Resume
 
 [Or download the PDF version](https://github.com/jon49/Resume/blob/master/Resume_Nyman.pdf).
 
