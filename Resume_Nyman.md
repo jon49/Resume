@@ -11,13 +11,21 @@ Self-taught programmer/consultant with 3$\frac{1}{2}$ years of experience. Previ
 
 Experienced         |Familiar
 :-------------------|:-------------------
-VB.NET              |C#.NET
+VB.NET              |JavaScript
 F#.NET              |HTML/CSS
 MS Excel VBA        |Docpad^[Node.js Static Site Generator]
 Dashboard Design    |Markdown (Pandoc^[Write in Markdown convert to PDF, HTML, ODT, DOCX, etc.])
 Spreadsheet Design  |Vim
-MS VISIO            |MATLAB
-MultiSim            |JavaScript
+MS VISIO            |C#.NET
+MultiSim            |MATLAB
+
+**JavaScript Libraries**
+
+Experienced         |Familiar
+:-------------------|:-------------------
+lodash.js           |mithril.js
+bilby.js            |jquery.js
+selectize.js        |dropbox.js
 
 **Engineering Skills**
 
@@ -36,8 +44,9 @@ Competitive Analysis        Worst Case Analysis
 
 [^budget]: [Spreadsheet Budget & Consulting](www.SpreadsheetBudget.com) creates applications or add-ons to be used with Microsoft Excel. Also, consulting work is done for specific applications for other companies.
 
+- Created a [time card static application](https://tiemcard.appspot.com) using JavaScript/HTML/CSS.
 - Created an automated heat map system with core manipulation in Excel. Creates maps in Excel or HTML.
-- Created free add-ins *Excel Time Card*, *KMyMoney to Excel*, *Scribble Filter*. 
+- Created free add-ins *Excel Time Card*, *KMyMoney to Excel*, *Scribble Filter*.
 
 | **Alliant Techsystems Corporation[^ATK] (ATK), Clearfield, UT**
 | *Design Engineer 2007 - 2009*
@@ -89,7 +98,7 @@ Self-taught Programming
 [Mastering Microsoft Visual Basic 2010]     [Teach Yourself Visual Basic 2008]
 [Sams Teach Yourself SQL in 10 Minutes]     [Excel Advanced Report Development]
 [Excel 2010 Power Programming with VBA]     [Eloquent Javascript] 
-[Functional JavaScript][^partial]           \
+[Functional JavaScript]                     [JavaScript Allongé][^partial]
 ----------------------------------------    ----------------------------------------
 
 [^partial]: Partially read and/or currently reading.
@@ -107,6 +116,7 @@ Self-taught Programming
 [Teach Yourself Visual Basic 2008]: https://www.goodreads.com/book/show/3138810-sams-teach-yourself-visual-basic-2008-in-24-hours
 [Eloquent Javascript]: http://eloquentjavascript.net/contents.html
 [Functional JavaScript]: http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO
+[JavaScript Allongé]: https://leanpub.com/javascript-allonge
 
 ## Personal
 

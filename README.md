@@ -1,6 +1,6 @@
 ### JavaScript/HTML/CSS Projects
 
-See [my static built website](http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/) built with [Docpad](http://docpad.org/). See my [static app timecard](https://github.com/jon49/Tiem) built with [pure css](http://purecss.io/) among other technologies.
+see [my static built website](http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/) built with [docpad](http://docpad.org/). see my [static app timecard](https://tiemcard.appspot.com) ([source code](https://github.com/jon49/tiem)) built with [pure css](http://purecss.io/) among other technologies.
 
 ### .NET Projects
 
@@ -10,6 +10,7 @@ A [personal finance to Excel converter add-in](https://github.com/jon49/FxToExce
 
 [Or download the PDF version](https://github.com/jon49/Resume/blob/master/Resume_Nyman.pdf).
 
+<style type="text/css">code{white-space: pre;}</style>
 <table>
 <tbody>
 <tr class="odd">
@@ -40,7 +41,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <tbody>
 <tr class="odd">
 <td align="left">VB.NET</td>
-<td align="left">C#.NET</td>
+<td align="left">JavaScript</td>
 </tr>
 <tr class="even">
 <td align="left">F#.NET</td>
@@ -60,11 +61,34 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </tr>
 <tr class="even">
 <td align="left">MS VISIO</td>
-<td align="left">MATLAB</td>
+<td align="left">C#.NET</td>
 </tr>
 <tr class="odd">
 <td align="left">MultiSim</td>
-<td align="left">JavaScript</td>
+<td align="left">MATLAB</td>
+</tr>
+</tbody>
+</table>
+<p><strong>JavaScript Libraries</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Experienced</th>
+<th align="left">Familiar</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">lodash.js</td>
+<td align="left">mithril.js</td>
+</tr>
+<tr class="even">
+<td align="left">bilby.js</td>
+<td align="left">jquery.js</td>
+</tr>
+<tr class="odd">
+<td align="left">selectize.js</td>
+<td align="left">dropbox.js</td>
 </tr>
 </tbody>
 </table>
@@ -96,6 +120,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <h2 id="professional-experience">Professional Experience</h2>
 <p><strong>Spreadsheet Budget &amp; Consulting<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>, Chino Valley, AZ</strong><br /><em>Software Developer/Sole Proprietor 2009 - 2014</em></p>
 <ul>
+<li>Created a <a href="https://tiemcard.appspot.com">time card static application</a> using JavaScript/HTML/CSS.</li>
 <li>Created an automated heat map system with core manipulation in Excel. Creates maps in Excel or HTML.</li>
 <li>Created free add-ins <em>Excel Time Card</em>, <em>KMyMoney to Excel</em>, <em>Scribble Filter</em>.</li>
 </ul>
@@ -162,8 +187,8 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <td align="left"><a href="http://eloquentjavascript.net/contents.html">Eloquent Javascript</a></td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO">Functional JavaScript</a><a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></td>
-<td align="left"></td>
+<td align="left"><a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO">Functional JavaScript</a></td>
+<td align="left"><a href="https://leanpub.com/javascript-allonge">JavaScript Allongé</a><a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></td>
 </tr>
 </tbody>
 </table>
