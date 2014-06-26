@@ -10,7 +10,6 @@ A [personal finance to Excel converter add-in](https://github.com/jon49/FxToExce
 
 [Or download the PDF version](https://github.com/jon49/Resume/blob/master/Resume_Nyman.pdf).
 
-<style type="text/css">code{white-space: pre;}</style>
 <table>
 <tbody>
 <tr class="odd">
