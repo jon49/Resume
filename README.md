@@ -3,13 +3,13 @@
 Some projects I have worked on with JavaScript/HTML/CSS:
 
 - [Timecard Web App](https://github.com/jon49/tiem)
-    - Used [Pure.css](http://purecss.io/), Mithril.js, Lodash.js, Bilby.js, jQuery, Selectize.js
+    - Uses [Pure.css](http://purecss.io/), Mithril.js, Lodash.js, Bilby.js, jQuery, Selectize.js
 
 - [Pseudo-Static Site "Generator"](https://github.com/jon49/maws)
     - Uses Mithril.js, AWS S3 (although it doesn't necessarily need AWS)
 
 - [Static Website](http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/)
-    - Used [docpad](http://docpad.org/)
+    - Uses [docpad](http://docpad.org/)
     - No JavaScript 100% HTML/CSS
 
 ### .NET Projects
@@ -25,6 +25,7 @@ A [personal finance to Excel converter add-in](https://github.com/jon49/FxToExce
 <!-- pandoc -s -S Resume_Nyman.md -o Resume_Nyman.html$ -->
 <!-- pandoc -S Resume_Nyman.md -o Resume_Nyman_partial.html$ -->
 <!-- pandoc Resume_Nyman.md -o Resume_Nyman.docx$ -->
+<!-- pandoc Resume_Nyman.md -H header.tex  -o Resume_Nyman.pdf; pandoc -s -S Resume_Nyman.md -o Resume_Nyman.html; pandoc -S Resume_Nyman.md -o Resume_Nyman_partial.html; pandoc Resume_Nyman.md -o Resume_Nyman.docx$ -->
 
 <table>
 <tbody>
@@ -138,8 +139,20 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <h2 id="professional-experience">Professional Experience</h2>
 <p><strong>Spreadsheet Budget &amp; Consulting<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>, Chino Valley, AZ</strong><br /><em>Software Developer/Sole Proprietor 2009 - 2014</em></p>
 <ul>
-<li>Created a <a href="https://github.com/jon49/Tiem">time card static application</a> using JavaScript/HTML/CSS.</li>
+<li>Created a <a href="https://github.com/jon49/Tiem">Timecard Web Application</a> using JavaScript/HTML/CSS.
+<ul>
+<li>Uses <a href="http://purecss.io/">Pure.css</a>, Mithril.js, Lodash.js, Bilby.js, jQuery, Selectize.js</li>
+</ul></li>
 <li>Created an automated heat map system with core manipulation in Excel. Creates maps in Excel or HTML.</li>
+<li><a href="https://github.com/jon49/maws">Pseudo-Static Site “Generator”</a>
+<ul>
+<li>Uses Mithril.js, AWS S3 (although it doesn’t necessarily need AWS)</li>
+</ul></li>
+<li><a href="http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/">Static Website</a>
+<ul>
+<li>Uses <a href="http://docpad.org/">docpad</a></li>
+<li>No JavaScript 100% HTML/CSS</li>
+</ul></li>
 <li>Created free add-ins <em>Excel Time Card</em>, <em>KMyMoney to Excel</em>, <em>Scribble Filter</em>.</li>
 </ul>
 <p><strong>Alliant Techsystems Corporation<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a> (ATK), Clearfield, UT</strong><br /><em>Design Engineer 2007 - 2009</em></p>

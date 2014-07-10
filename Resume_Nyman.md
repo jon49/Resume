@@ -3,6 +3,7 @@
 <!-- pandoc -s -S Resume_Nyman.md -o Resume_Nyman.html$ -->
 <!-- pandoc -S Resume_Nyman.md -o Resume_Nyman_partial.html$ -->
 <!-- pandoc Resume_Nyman.md -o Resume_Nyman.docx$ -->
+<!-- pandoc Resume_Nyman.md -H header.tex  -o Resume_Nyman.pdf; pandoc -s -S Resume_Nyman.md -o Resume_Nyman.html; pandoc -S Resume_Nyman.md -o Resume_Nyman_partial.html; pandoc Resume_Nyman.md -o Resume_Nyman.docx$ -->
 
 -----------------------    -----------------------
 **Jon F. Nyman**              <nymanjon@gmail.com>
@@ -49,8 +50,14 @@ Competitive Analysis        Worst Case Analysis
 
 [^budget]: [Spreadsheet Budget & Consulting](www.SpreadsheetBudget.com) creates applications or add-ons to be used with Microsoft Excel. Also, consulting work is done for specific applications for other companies.
 
-- Created a [time card static application](https://github.com/jon49/Tiem) using JavaScript/HTML/CSS.
+- Created a [Timecard Web Application](https://github.com/jon49/Tiem) using JavaScript/HTML/CSS.
+    - Uses [Pure.css](http://purecss.io/), Mithril.js, Lodash.js, Bilby.js, jQuery, Selectize.js
 - Created an automated heat map system with core manipulation in Excel. Creates maps in Excel or HTML.
+- [Pseudo-Static Site "Generator"](https://github.com/jon49/maws)
+    - Uses Mithril.js, AWS S3 (although it doesn't necessarily need AWS)
+- [Static Website](http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/)
+    - Uses [docpad](http://docpad.org/)
+    - No JavaScript 100% HTML/CSS
 - Created free add-ins *Excel Time Card*, *KMyMoney to Excel*, *Scribble Filter*.
 
 | **Alliant Techsystems Corporation[^ATK] (ATK), Clearfield, UT**
