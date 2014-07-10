@@ -1,3 +1,8 @@
+<!-- pandoc Resume_Nyman.md -H header.tex  -o Resume_Nyman.pdf$ -->
+<!-- pandoc CoverLetter.md Resume_Nyman.md -H header.tex  -o Resume_Nyman.pdf$ -->
+<!-- pandoc -s -S Resume_Nyman.md -o Resume_Nyman.html$ -->
+<!-- pandoc Resume_Nyman.md -o Resume_Nyman.docx$ -->
+
 -----------------------    -----------------------
 **Jon F. Nyman**              <nymanjon@gmail.com>
                                       801.528.1295
@@ -5,27 +10,26 @@
 
 ## Summary
 
-Self-taught programmer/consultant with 3$\frac{1}{2}$ years of experience. Previous experience as an electrical engineer with 5 years experience in project management, test engineering, analog design, and worst case analysis, with a masters degree in digital signal processing. An initiator, self-motivated, quick learner, and works well with others.
+Self-taught programmer/consultant with 3$\frac{1}{2}$ years of experience with a passion for learning. Previous experience as an electrical engineer with 5 years experience in project management, test engineering, analog design, and worst case analysis, with a masters degree in digital signal processing. An initiator, self-motivated, quick learner, and works well with others.
 
 **Programming Skills**
 
-Experienced         |Familiar
-:-------------------|:-------------------
-VB.NET              |JavaScript
-F#.NET              |HTML/CSS
-MS Excel VBA        |Docpad^[Node.js Static Site Generator]
-Dashboard Design    |Markdown (Pandoc^[Write in Markdown convert to PDF, HTML, ODT, DOCX, etc.])
-Spreadsheet Design  |Vim
-MS VISIO            |C#.NET
-MultiSim            |MATLAB
+**Experienced**         |                    |**Familiar**
+:-------------------|:-------------------|:-------------------
+***JavaScript***    |Vim                 |Docpad^[Node.js Static Site Generator]
+***HTML/CSS***      |Dashboard Design    |Markdown (Pandoc^[Write in Markdown convert to PDF, HTML, ODT, DOCX, etc.])
+VB.NET              |Spreadsheet Design  |C#.NET
+F#.NET              |MS VISIO            |MATLAB
+MS Excel VBA        |MultiSim            |
 
 **JavaScript Libraries**
 
-Experienced         |Familiar
-:-------------------|:-------------------
-lodash.js           |mithril.js
-bilby.js            |jquery.js
-selectize.js        |dropbox.js
+**Experienced**     |**Contributed To**     |**Familiar**
+:-------------------|:-------------------|:-------------------
+lodash.js           |mithril.js          |jquery.js
+bilby.js            |brackets.io         |
+mithril.js          |                    |
+selectize.js        |                    |
 
 **Engineering Skills**
 
@@ -44,7 +48,7 @@ Competitive Analysis        Worst Case Analysis
 
 [^budget]: [Spreadsheet Budget & Consulting](www.SpreadsheetBudget.com) creates applications or add-ons to be used with Microsoft Excel. Also, consulting work is done for specific applications for other companies.
 
-- Created a [time card static application](https://tiemcard.appspot.com) using JavaScript/HTML/CSS.
+- Created a [time card static application](https://github.com/jon49/Tiem) using JavaScript/HTML/CSS.
 - Created an automated heat map system with core manipulation in Excel. Creates maps in Excel or HTML.
 - Created free add-ins *Excel Time Card*, *KMyMoney to Excel*, *Scribble Filter*.
 
@@ -70,16 +74,18 @@ Engineering Experience
 - Executed failure analyses for family of existing inverters to maintain customer satisfaction.
 - Performed qualification, characterization, and analysis on new and existing inverters to maintain quality in products.
 - Completed competitive analyses and evaluations to compare Rogers and competitive products.
+- Put ICs in various packages for competitive packaging.
+- Created and organized datasheets, failure analysis reports, assembly and test procedures.
+- Reviewed and prepared environmental reports and surveys to retain customers.
 
 Interpersonal Experience
 
-- Put ICs in various packages for competitive packaging.
-- Created and organized datasheets, failure analysis reports, assembly and test procedures.
-- Reviewed and prepared environmental reports and surveys to maintain 100% customer business.
 - Responded to customer inquiries within 1 day to achieve 100% customer satisfaction.
 - Mocked up and optimized products for customer evaluation.
 - Assisted in training engineering assistants.
 - Trained sales and application engineers.
+
+\newpage
 
 ## Education
 
@@ -87,8 +93,6 @@ Interpersonal Experience
 | Master of Science in Engineering - Electrical - Digital Signal Processing - 2007
 
 Self-taught Programming
-
-\newpage
 
 **Books Read**
 ----------------------------------------    ----------------------------------------
@@ -98,7 +102,8 @@ Self-taught Programming
 [Mastering Microsoft Visual Basic 2010]     [Teach Yourself Visual Basic 2008]
 [Sams Teach Yourself SQL in 10 Minutes]     [Excel Advanced Report Development]
 [Excel 2010 Power Programming with VBA]     [Eloquent Javascript] 
-[Functional JavaScript]                     [JavaScript Allongé][^partial]
+[Functional JavaScript]                     [JavaScript Allongé]
+[Human JavaScript][^partial]
 ----------------------------------------    ----------------------------------------
 
 [^partial]: Partially read and/or currently reading.
@@ -117,6 +122,7 @@ Self-taught Programming
 [Eloquent Javascript]: http://eloquentjavascript.net/contents.html
 [Functional JavaScript]: http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO
 [JavaScript Allongé]: https://leanpub.com/javascript-allonge
+[Human JavaScript]: http://humanjavascript.com/
 
 ## Personal
 
