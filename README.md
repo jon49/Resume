@@ -1,6 +1,16 @@
 ### JavaScript/HTML/CSS Projects
 
-see [my static built website](http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/) built with [docpad](http://docpad.org/). see my [static app timecard](https://tiemcard.appspot.com) ([source code](https://github.com/jon49/tiem)) built with [pure css](http://purecss.io/) among other technologies.
+Some projects I have worked on with JavaScript/HTML/CSS:
+
+- [Timecard Web App](https://github.com/jon49/tiem)
+    - Used [Pure.css](http://purecss.io/), Mithril.js, Lodash.js, Bilby.js, jQuery, Selectize.js
+
+- [Pseudo-Static Site "Generator"](https://github.com/jon49/maws)
+    - Uses Mithril.js, AWS S3 (although it doesn't necessarily need AWS)
+
+- [Static Website](http://spreadsheetbudget.com.s3-website-us-east-1.amazonaws.com/)
+    - Used [docpad](http://docpad.org/)
+    - No JavaScript 100% HTML/CSS
 
 ### .NET Projects
 
