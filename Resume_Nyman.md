@@ -1,6 +1,7 @@
 <!-- pandoc Resume_Nyman.md -H header.tex  -o Resume_Nyman.pdf$ -->
 <!-- pandoc CoverLetter.md Resume_Nyman.md -H header.tex  -o Resume_Nyman.pdf$ -->
 <!-- pandoc -s -S Resume_Nyman.md -o Resume_Nyman.html$ -->
+<!-- pandoc -S Resume_Nyman.md -o Resume_Nyman_partial.html$ -->
 <!-- pandoc Resume_Nyman.md -o Resume_Nyman.docx$ -->
 
 -----------------------    -----------------------
